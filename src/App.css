@@ -1,0 +1,13 @@
+#home{
+    background-color: rgba(108, 109, 111, 0.378);
+}
+
+#movie img, #top-rated img, #upcoming img{
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+}
+
+#movie, #top-rated, #upcoming{
+    background-color: rgb(45, 45, 45);
+}
